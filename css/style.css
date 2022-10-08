@@ -19,6 +19,7 @@
     width: 100%;
     background-color: rgb(170 128 128 / 21%);
     backdrop-filter: blur(0.2rem);
+    z-index: 999;
 }
 #navbar ul{
     display: flex;
